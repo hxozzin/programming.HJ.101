@@ -1,0 +1,7 @@
+﻿  prob1.cpp
+C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\prob1.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\prob1.cpp(12,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\prob1.cpp(8,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\prob1.cpp(9,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\prob1.cpp(10,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Prob_1.vcxproj -> C:\Users\USER\OneDrive\문서\programming.HJ.101\8nd_week\Prob_1\x64\Debug\Prob_1.exe
